@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: 9a8fa5a9425014a4b82a1a0253873120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6349534690419063335
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_0
+  - first:
+      213: 1173324615707345448
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_1
+  - first:
+      213: -1306676201161440953
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_2
+  - first:
+      213: 4107686910528846859
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_3
+  - first:
+      213: 4711562578391072731
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_4
+  - first:
+      213: 4595768249716057629
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_5
+  - first:
+      213: 5991438077097729163
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_6
+  - first:
+      213: 8355890335139964025
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_7
+  - first:
+      213: 6067987969485520788
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_8
+  - first:
+      213: -5627472535104016800
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_9
+  - first:
+      213: -2429101214789054775
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_10
+  - first:
+      213: -524595208357689371
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_11
+  - first:
+      213: 3108002606392093166
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_12
+  - first:
+      213: -4849965143054854941
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_13
+  - first:
+      213: 6669295864033322782
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_14
+  - first:
+      213: 1358210895550754994
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_15
+  - first:
+      213: 761209689840991775
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_16
+  - first:
+      213: 6223872602782162287
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_17
+  - first:
+      213: -1386970055621394902
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_18
+  - first:
+      213: 4807857690039765114
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_19
+  - first:
+      213: 6403734043102851384
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_20
+  - first:
+      213: 1407850869543945551
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_21
+  - first:
+      213: -7168095657229763165
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_22
+  - first:
+      213: -3521686884476436264
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_23
+  - first:
+      213: 7195276439961480286
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_24
+  - first:
+      213: -2946652995991255722
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_25
+  - first:
+      213: 2050068881085186354
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_26
+  - first:
+      213: 6385349221055503592
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_27
+  - first:
+      213: 4571945283038630814
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_28
+  - first:
+      213: 7638082473408121029
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_29
+  - first:
+      213: 4617585985705168259
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_30
+  - first:
+      213: 7296551483143242580
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_31
+  - first:
+      213: 5789645154104664474
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_32
+  - first:
+      213: -2466860454929635412
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_33
+  - first:
+      213: -8292612956090482985
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_34
+  - first:
+      213: 1479675375164995254
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_35
+  - first:
+      213: 745841315541983777
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_36
+  - first:
+      213: -4779344890849322779
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_37
+  - first:
+      213: 8080505892445771736
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_38
+  - first:
+      213: -6761828459974802533
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_39
+  - first:
+      213: 1995940471834773291
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_40
+  - first:
+      213: 980393670918852955
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_41
+  - first:
+      213: -4619932049465632740
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_42
+  - first:
+      213: 2481838631816215210
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_43
+  - first:
+      213: 5536127336045864063
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_44
+  - first:
+      213: -7809314314305923363
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_45
+  - first:
+      213: 6903463663363500219
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_46
+  - first:
+      213: 2871203408926515253
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_47
+  - first:
+      213: -8708587405396850567
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_48
+  - first:
+      213: 6909569033572258635
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_49
+  - first:
+      213: 2360936238092632034
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_50
+  - first:
+      213: -3231168644074446370
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_51
+  - first:
+      213: 6458684075509540551
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_52
+  - first:
+      213: 290608228785669226
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_53
+  - first:
+      213: 332365344550149944
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_54
+  - first:
+      213: 4616347188927996533
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_55
+  - first:
+      213: -7239786386149707851
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_56
+  - first:
+      213: -7921307576498764956
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_57
+  - first:
+      213: -6640123782675394543
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_58
+  - first:
+      213: 1804974508670736578
+    second: PlayStation - Xenogears - Enemies & Bosses - Wiseman_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54d8027dbe1e7a0800000000000000
+      internalID: -6349534690419063335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822457d758c784010800000000000000
+      internalID: 1173324615707345448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c0590be0cddde0800000000000000
+      internalID: -1306676201161440953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf79e4b7f610930800000000000000
+      internalID: 4107686910528846859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdff50eb335d26140800000000000000
+      internalID: 4711562578391072731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16285aafd277cf30800000000000000
+      internalID: 4595768249716057629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd827ef2dd52350800000000000000
+      internalID: 5991438077097729163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97423280df516f370800000000000000
+      internalID: 8355890335139964025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f378e98e2d53450800000000000000
+      internalID: 6067987969485520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eabd18b8337e1b0800000000000000
+      internalID: -5627472535104016800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce4709a0591a4ed0800000000000000
+      internalID: -2429101214789054775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7c7faff6348b8f0800000000000000
+      internalID: -524595208357689371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee92df257e7d12b20800000000000000
+      internalID: 3108002606392093166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4503b066671bcb0800000000000000
+      internalID: -4849965143054854941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1720bdb0491e8c50800000000000000
+      internalID: 6669295864033322782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03e570d9559d210800000000000000
+      internalID: 1358210895550754994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebe8a0e2c509a00800000000000000
+      internalID: 761209689840991775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_17
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ddd102823af5650800000000000000
+      internalID: 6223872602782162287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3598351e70cce0800000000000000
+      internalID: -1386970055621394902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7843719811f8b240800000000000000
+      internalID: 4807857690039765114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831b83b0f22aed850800000000000000
+      internalID: 6403734043102851384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4544ef18e0b98310800000000000000
+      internalID: 1407850869543945551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adbcca5afec58c90800000000000000
+      internalID: -7168095657229763165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d041a0ff64702fc0800000000000000
+      internalID: -3521686884476436264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c24a8ccc1cad360800000000000000
+      internalID: 7195276439961480286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655c99156b26b17d0800000000000000
+      internalID: -2946652995991255722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2314a2e19ce437c10800000000000000
+      internalID: 2050068881085186354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec94d719415d9850800000000000000
+      internalID: 6385349221055503592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935a000300d27f30800000000000000
+      internalID: 4571945283038630814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_29
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c0a09a8beff960800000000000000
+      internalID: 7638082473408121029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d47cd2df5f41040800000000000000
+      internalID: 4617585985705168259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534a164aee824560800000000000000
+      internalID: 7296551483143242580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9168f1c793f85050800000000000000
+      internalID: 5789645154104664474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e5797c73f3cdd0800000000000000
+      internalID: -2466860454929635412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7debc6cd378baec80800000000000000
+      internalID: -8292612956090482985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b63a9ff9ecd88410800000000000000
+      internalID: 1479675375164995254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122a0bf89b2c95a00800000000000000
+      internalID: 745841315541983777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_37
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e819d1d42b5cadb0800000000000000
+      internalID: -4779344890849322779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75eacfb49b32070800000000000000
+      internalID: 8080505892445771736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93431367d82922a0800000000000000
+      internalID: -6761828459974802533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278980c84103bb10800000000000000
+      internalID: 1995940471834773291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d82f69de0b9d00800000000000000
+      internalID: 980393670918852955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1898294744b2efb0800000000000000
+      internalID: -4619932049465632740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3f371613417220800000000000000
+      internalID: 2481838631816215210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e7500b7644dc40800000000000000
+      internalID: 5536127336045864063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61c64b10ebf9390800000000000000
+      internalID: -7809314314305923363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8299e20a70ecf50800000000000000
+      internalID: 6903463663363500219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_47
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530a4f2c94098d720800000000000000
+      internalID: 2871203408926515253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97841e515e1e42780800000000000000
+      internalID: -8708587405396850567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_49
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431d157d68b3ef50800000000000000
+      internalID: 6909569033572258635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efbbd0fffab3c020800000000000000
+      internalID: 2360936238092632034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ef88dc359823d0800000000000000
+      internalID: -3231168644074446370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e73572fad1a950800000000000000
+      internalID: 6458684075509540551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a644395f4a2780400800000000000000
+      internalID: 290608228785669226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdf89158ccc9400800000000000000
+      internalID: 332365344550149944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5722de35f4f801040800000000000000
+      internalID: 4616347188927996533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf66dbc3ac178b90800000000000000
+      internalID: -7239786386149707851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_57
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634e226abcd11290800000000000000
+      internalID: -7921307576498764956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110920db99a89d3a0800000000000000
+      internalID: -6640123782675394543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Enemies & Bosses - Wiseman_59
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c854f1a0ce8c0910800000000000000
+      internalID: 1804974508670736578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80f4f9ca083834848bf51df3ebd98f5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":112.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.18000000715255738},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_0: -6349534690419063335
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_1: 1173324615707345448
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_10: -2429101214789054775
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_11: -524595208357689371
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_12: 3108002606392093166
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_13: -4849965143054854941
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_14: 6669295864033322782
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_15: 1358210895550754994
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_16: 761209689840991775
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_17: 6223872602782162287
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_18: -1386970055621394902
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_19: 4807857690039765114
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_2: -1306676201161440953
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_20: 6403734043102851384
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_21: 1407850869543945551
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_22: -7168095657229763165
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_23: -3521686884476436264
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_24: 7195276439961480286
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_25: -2946652995991255722
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_26: 2050068881085186354
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_27: 6385349221055503592
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_28: 4571945283038630814
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_29: 7638082473408121029
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_3: 4107686910528846859
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_30: 4617585985705168259
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_31: 7296551483143242580
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_32: 5789645154104664474
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_33: -2466860454929635412
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_34: -8292612956090482985
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_35: 1479675375164995254
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_36: 745841315541983777
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_37: -4779344890849322779
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_38: 8080505892445771736
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_39: -6761828459974802533
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_4: 4711562578391072731
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_40: 1995940471834773291
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_41: 980393670918852955
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_42: -4619932049465632740
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_43: 2481838631816215210
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_44: 5536127336045864063
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_45: -7809314314305923363
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_46: 6903463663363500219
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_47: 2871203408926515253
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_48: -8708587405396850567
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_49: 6909569033572258635
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_5: 4595768249716057629
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_50: 2360936238092632034
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_51: -3231168644074446370
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_52: 6458684075509540551
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_53: 290608228785669226
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_54: 332365344550149944
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_55: 4616347188927996533
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_56: -7239786386149707851
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_57: -7921307576498764956
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_58: -6640123782675394543
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_59: 1804974508670736578
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_6: 5991438077097729163
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_7: 8355890335139964025
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_8: 6067987969485520788
+      PlayStation - Xenogears - Enemies & Bosses - Wiseman_9: -5627472535104016800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
