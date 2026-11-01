@@ -223,9 +223,9 @@ MonoBehaviour:
     m_Bits: 128
   damage: 1
   knockback: 5
-  windup: 0.1
+  windup: 0.5
   recovery: 0.5
-  cooldown: 1.2
+  cooldown: 0.7
   windupTint: {r: 1, g: 0.5, b: 0.5, a: 1}
   hurtStunTime: 0.4
   knockbackDecel: 15
