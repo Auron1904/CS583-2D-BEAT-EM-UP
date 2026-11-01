@@ -1158,10 +1158,10 @@ MonoBehaviour:
   windup: 0.7
   windupTint: {r: 0.6, g: 0.6, b: 1, a: 1}
   destroyDelay: 1.5
-  windupSfx: {fileID: 0}
-  attackSfx: {fileID: 0}
-  hurtSfx: {fileID: 0}
-  deathSfx: {fileID: 0}
+  windupSfx: {fileID: 8300000, guid: fbd61ad354269d44aa3f44e78d03f8d1, type: 3}
+  attackSfx: {fileID: 8300000, guid: 49718ee09a7b0b242902baeec488034c, type: 3}
+  hurtSfx: {fileID: 8300000, guid: 05fd3ee10f51bb04893062a126dd9d80, type: 3}
+  deathSfx: {fileID: 8300000, guid: 05fd3ee10f51bb04893062a126dd9d80, type: 3}
 --- !u!114 &1529848334
 MonoBehaviour:
   m_ObjectHideFlags: 0

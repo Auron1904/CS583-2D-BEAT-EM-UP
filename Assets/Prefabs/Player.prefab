@@ -225,13 +225,13 @@ MonoBehaviour:
   chargedTint: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   hurtStunTime: 0.3
   knockbackDecel: 20
-  jumpSfx: {fileID: 0}
-  punchSfx: {fileID: 0}
-  hitSfx: {fileID: 0}
-  lungeSfx: {fileID: 0}
-  chargeLoopSfx: {fileID: 0}
-  hurtSfx: {fileID: 0}
-  deathSfx: {fileID: 0}
+  jumpSfx: {fileID: 8300000, guid: dd96190cc8c7d814d8a5985edd6c8600, type: 3}
+  punchSfx: {fileID: 8300000, guid: a303498a7c0422f42a8dd3705a22b3f5, type: 3}
+  hitSfx: {fileID: 8300000, guid: bf2b42bcfb4bc3c4daf5c30a57ffbb6e, type: 3}
+  lungeSfx: {fileID: 8300000, guid: d104b77662b59d2449e03d40786aba9c, type: 3}
+  chargeLoopSfx: {fileID: 8300000, guid: 08659642e1dace240800ee82f0fc65dd, type: 3}
+  hurtSfx: {fileID: 8300000, guid: 4898bff9953d06743838b020fca67b65, type: 3}
+  deathSfx: {fileID: 8300000, guid: 07a1181da8b3b8445844eebd7c7b6742, type: 3}
 --- !u!61 &360682305875682925
 BoxCollider2D:
   m_ObjectHideFlags: 0

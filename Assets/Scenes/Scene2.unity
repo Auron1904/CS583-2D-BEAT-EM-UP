@@ -838,8 +838,8 @@ MonoBehaviour:
   nextSceneName: Boss
   nextSceneDelay: 1.5
   gameOverPanel: {fileID: 1332239304}
-  clearSfx: {fileID: 0}
-  gameOverSfx: {fileID: 0}
+  clearSfx: {fileID: 8300000, guid: 835c857700f794c4693c49af64b41522, type: 3}
+  gameOverSfx: {fileID: 8300000, guid: 85a05defe47b9d645aaf9bf6eeca8540, type: 3}
 --- !u!4 &1723434619
 Transform:
   m_ObjectHideFlags: 0

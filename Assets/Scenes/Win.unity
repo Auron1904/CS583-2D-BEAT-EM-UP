@@ -744,7 +744,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MenuController
   sceneToLoad: Title
-  confirmSfx: {fileID: 0}
+  confirmSfx: {fileID: 8300000, guid: a8bc59989d3a7a54b890d2b58dcb5728, type: 3}
 --- !u!4 &2068550077
 Transform:
   m_ObjectHideFlags: 0

@@ -230,9 +230,9 @@ MonoBehaviour:
   hurtStunTime: 0.4
   knockbackDecel: 15
   destroyDelay: 0.6
-  attackSfx: {fileID: 0}
-  hurtSfx: {fileID: 0}
-  deathSfx: {fileID: 0}
+  attackSfx: {fileID: 8300000, guid: df5dc7caf4e7f284285fa4fe08477a06, type: 3}
+  hurtSfx: {fileID: 8300000, guid: ebb9d21afadd36244b3c94b032bcc2c5, type: 3}
+  deathSfx: {fileID: 8300000, guid: 0aecb3a263886564db39725ec4524a0d, type: 3}
 --- !u!95 &4094858884264623541
 Animator:
   serializedVersion: 7
