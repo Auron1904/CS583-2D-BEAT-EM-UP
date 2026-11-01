@@ -77,6 +77,7 @@ GameObject:
   - component: {fileID: 360682305875682925}
   - component: {fileID: 5067726100887078472}
   - component: {fileID: 5179774667364961600}
+  - component: {fileID: 3468912366207884880}
   m_Layer: 7
   m_Name: Player
   m_TagString: Untagged
@@ -305,3 +306,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::HitFlash
   flashColor: {r: 1, g: 0, b: 0, a: 1}
   flashTime: 0.1
+--- !u!95 &3468912366207884880
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5860966652563956979}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 96d2bb3c73bcd434489b6b1683006376, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 6218997941349738547}
   - component: {fileID: 5833613894133981205}
   - component: {fileID: 7549232635845211854}
+  - component: {fileID: 4094858884264623541}
   m_Layer: 8
   m_Name: Grunt
   m_TagString: Untagged
@@ -222,7 +223,7 @@ MonoBehaviour:
     m_Bits: 128
   damage: 1
   knockback: 5
-  windup: 0.45
+  windup: 0.1
   recovery: 0.5
   cooldown: 1.2
   windupTint: {r: 1, g: 0.5, b: 0.5, a: 1}
@@ -232,6 +233,28 @@ MonoBehaviour:
   attackSfx: {fileID: 0}
   hurtSfx: {fileID: 0}
   deathSfx: {fileID: 0}
+--- !u!95 &4094858884264623541
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4765634896092759231}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b567d33413c711943a29c4fc4de062bd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5412502297063174231
 GameObject:
   m_ObjectHideFlags: 0
